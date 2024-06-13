@@ -1,8 +1,11 @@
-<h3 align="center">
-  I come in peace!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+[![hero](https://github.com/Psycarlo/Psycarlo/blob/main/hero.svg)](https://psycarlo.com)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=%23FF8000&center=true&vCenter=true&lines=Toxic+Bitcoin+Maxi;5%2B+years+of+coding+experience;Always+learning+new+things">
+<h1 align='center'> Hi :wave:</h1>
+<p align='center'>
+  <a href="https://psybitcoin.com">psybitcoin</a> |
+  <a href="https://psycarlo.com">psycarlo</a> |
+  <a href="https://psylibrary.com">psylibrary</a> |
+  <a href="https://psyui.com">psyui</a> |
+  <a href="https://mybitg.com">mybitg</a> |
+  <a href="https://satsigner.com">satsigner</a>
 </p>
