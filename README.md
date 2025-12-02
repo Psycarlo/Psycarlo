@@ -4,7 +4,6 @@
 <p align='center'>
   <a href="https://psybitcoin.com">psybitcoin</a> .
   <a href="https://psycarlo.com">psycarlo</a> .
-  <a href="https://psylibrary.com">psylibrary</a> .
   <a href="https://psyui.com">psyui</a> .
   <a href="https://satsigner.com">satsigner</a>
 </p>
