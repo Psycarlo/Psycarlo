@@ -6,5 +6,4 @@
   <a href="https://psycarlo.com">psycarlo</a> .
   <a href="https://satsigner.com">satsigner</a> .
   <a href="https://medusa.bz">medusa</a> .
-  <a href="https://psyui.com">psyui</a>
 </p>
